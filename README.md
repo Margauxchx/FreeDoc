@@ -7,3 +7,5 @@ Pour tester l'app :
 * `bundle install`
 * `rails db:migrate`
 * `rails db:seed`
+
+Puis tu peux tester dans la console
